@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "d03f1d2f1149f3518d7fd2bfc59f163d"
+build_time: [1596531216, 482056000]
+inputs:
+  "/Users/dong/Desktop/food_web/ios/Runner/AppDelegate.swift": [1593594656, 0]
